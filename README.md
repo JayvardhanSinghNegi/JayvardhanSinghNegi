@@ -1,6 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/JayvardhanSinghNegi)
-
-# 👋 Hi, I'm Jayvardhan Singh Negi
+Hi, I'm Jayvardhan Singh Negi
 
 **DevOps & AI Enthusiast | Full-Stack Developer | B.Tech CSE @ UPES**
 
