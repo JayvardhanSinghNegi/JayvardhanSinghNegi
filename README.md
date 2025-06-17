@@ -1,4 +1,4 @@
-***Hi, I'm Jayvardhan Singh Negi***
+##**Hi, I'm Jayvardhan Singh Negi**##
 
 **DevOps & AI Enthusiast | Full-Stack Developer | B.Tech CSE @ UPES**
 
