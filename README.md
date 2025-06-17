@@ -1,10 +1,10 @@
-##**Hi, I'm Jayvardhan Singh Negi**##
+**Hi, I'm Jayvardhan Singh Negi**
 
 **DevOps & AI Enthusiast | Full-Stack Developer | B.Tech CSE @ UPES**
 
 ---
 
-### 🧠 Languages
+###  Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -15,7 +15,7 @@
 
 ---
 
-### ⚙️ Technologies & Tools
+###  Technologies & Tools
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
@@ -32,7 +32,7 @@
 
 ---
 
-### 💼 Featured Projects
+### Featured Projects
 
 [![](https://img.shields.io/badge/-📄%20ClauseWise-000)](https://github.com/JayvardhanSinghNegi/ClauseWise)
 > AI-powered legal clause analyzer using NLP (spaCy, BERT). FastAPI + Hugging Face integration.  
@@ -52,7 +52,7 @@
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 [![](https://img.shields.io/badge/-🐳%20Docker%20Certified-000)](https://www.linkedin.com/learning/paths/docker-foundations-professional-certificate)
 [![](https://img.shields.io/badge/-⚙️%20Jenkins%20Certified-000)](https://www.linkedin.com/learning/certificates/5f285ee14aae5365a6048a4c5c0a97da84022e92665926f38bb0302eb9c53303?trk=share_certificate)
@@ -61,7 +61,7 @@
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 📍 Dehradun, Uttarakhand, India  
 📧 [jayvardhanneggi26@gmail.com](mailto:jayvardhanneggi26@gmail.com)  
