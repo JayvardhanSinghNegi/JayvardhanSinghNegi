@@ -1,4 +1,4 @@
-Hi, I'm Jayvardhan Singh Negi
+***Hi, I'm Jayvardhan Singh Negi***
 
 **DevOps & AI Enthusiast | Full-Stack Developer | B.Tech CSE @ UPES**
 
@@ -27,8 +27,8 @@ Hi, I'm Jayvardhan Singh Negi
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=grafana)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000?&logo=huggingface)
-![LLMOps](https://img.shields.io/badge/-LLMOps-000)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 ---
 
